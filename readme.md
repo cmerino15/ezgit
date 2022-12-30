@@ -6,7 +6,7 @@
 - the program will pause for a second when creating the venv
 
 - the program will eventually ask for the username and repo name to push to
- the following link git@github.com:username/reponame so please
+ the following link git@github.com:username/reponame
 
 ## Todo
 
